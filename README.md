@@ -7,10 +7,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanseefpp&show_icons=true&locale=en&layout=compact&theme=tokyonight"" alt="thanseefpp" /></p>
-  
-<br/><br/><br/><br/><br/><br/>
- <br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanseefpp&show_icons=true&locale=en&layout=compact&theme=tokyonight"" alt="thanseefpp" /></p>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thanseefpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanseefpp" height="30" width="40" /></a>
