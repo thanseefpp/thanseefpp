@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [thanseefpp](https://thanseefpp.github.io)
 
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanseefpp&show_icons=true&locale=en&layout=compact&theme=tokyonight"" alt="thanseefpp"/></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SamJakob&theme=dark&hide_border=true&stroke=00000000" />
+</p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +24,6 @@
 <a href="https://instagram.com/thanseef_tsf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thanseefpp" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SamJakob&theme=dark&hide_border=true&stroke=00000000" />
-</p>
+<br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanseefpp&show_icons=true&locale=en&layout=compact&theme=tokyonight"" alt="thanseefpp"/></p>
