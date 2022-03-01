@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **thanseefpp@gmail.com**
 
-- 👨‍💻 All of my projects are available at [thanseefpp](https://thanseefpp.github.io)
+- 👨‍💻 All of my projects are available at [thanseefpp](https://github.com/thanseefpp?tab=repositories)
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SamJakob&theme=dark&hide_border=true&stroke=00000000" />
