@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanseef</h1>
-<h3 align="center">Self-taught developer from India 🇮🇳 Wroking with IOS Dev</h3>
+<h3 align="center">Self-taught developer from India 🇮🇳 Working on IOS Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanseefpp&label=Profile%20views&color=0e75b6&style=flat" alt="thanseefpp" /> </p>
 
