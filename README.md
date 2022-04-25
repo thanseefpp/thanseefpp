@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thanseef</h1>
-<h3 align="center">Self-taught developer from India 🇮🇳 Working on IOS Dev</h3>
+<h3 align="center">Self-taught developer from India 🇮🇳 Working on Software Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanseefpp&label=Profile%20views&color=0e75b6&style=flat" alt="thanseefpp" /> </p>
 
-- 😉 Learning Swift,SwiftUi new features and Design Pattern.
+- 😉 Learning Swift,SwiftUi,MERN Stack new features and Design Pattern.
+
+- 👨🏻‍💻 Python(Django,Odoo,Flask), NodeJs, Java, C.
 
 - 📖 Researching new startup Ideas.
 
