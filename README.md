@@ -24,11 +24,11 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thanseefpptwitt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="40" width="40" /></a>
-<a href="https://dev.to/thanseefpp" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="thanseefpp" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/thanseefpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="thanseefpp" height="40" width="40" /></a>
-<a href="https://www.github.com/thanseefpp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40" width="40" /></a>
-<a href="https://instagram.com/thanseef_tsf" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="thanseefpp" height="40" width="40" /></a>
+<a href="https://twitter.com/thanseefpptwitt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="32" width="32" /></a>
+<a href="https://dev.to/thanseefpp" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="thanseefpp" height="32" width="32" /></a>
+<a href="https://linkedin.com/in/thanseefpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="thanseefpp" height="32" width="32" /></a>
+<a href="https://www.github.com/thanseefpp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" width="32" /></a>
+<a href="https://instagram.com/thanseef_tsf" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="thanseefpp" height="32" width="32" /></a>
 
 <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" /></p>
