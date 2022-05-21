@@ -35,5 +35,6 @@
 <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" /></p>
 
+<br/>
 
-<a href="http://www.github.com/thanseefpp"><img src="https://activity-graph.herokuapp.com/graph?username=ganudoomer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a
+<a href="http://www.github.com/thanseefpp"><img src="https://activity-graph.herokuapp.com/graph?username=ganudoomer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
