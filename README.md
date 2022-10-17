@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanseefpp&label=Profile%20views&color=0e75b6&style=flat" alt="thanseefpp" /> </p>
 
-- 😉 Learning Swift,SwiftUi,MERN Stack,Flutter.
+- 😉 Pursuing Machine Learning and Data Science.
 
-- 👨‍💻 Learning Data Structure and Algorithms and System architecture.
+- 👨‍💻 Practising Data Structure and Algorithms and System architecture.
 
-- 👨🏻‍💻 Python(Django,Odoo,Flask), NodeJs, Java, C.
+- 👨🏻‍💻 Python(Django,Odoo,Flask), Swift, SwiftUi, NodeJs, Java, C.
 
 - 📖 Researching new startup Ideas.
 
