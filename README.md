@@ -7,7 +7,7 @@
 
 - 👨‍💻 Practising Data Structure and Algorithms and System architecture.
 
-- 👨🏻‍💻 Python(Django,Odoo,Flask), Swift, SwiftUi, NodeJs, Java, C.
+- 👨🏻‍💻 Python(Django,Odoo,FastAPI), Swift, SwiftUi, NodeJs, Java, C.
 
 - 📖 Researching new startup Ideas.
 
