@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 Python, Javascript, Swift, Java, C.
 
-- 📖 Researching new startup Ideas.
+- 📖 Recently fininshed books(Atomics Habits,Rejection Proof).
 
 - 📫 Reach me at **thanseefpp@gmail.com**
 
