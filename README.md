@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **thanseefpp@gmail.com**
 
-- 🌏 See my portfolio [thanseef](https://thanseefpp.github.io/website)
+- 🌏 See my portfolio [thanseef](https://thanseefuddeen.xyz/)
 
 - 👨‍💻 All of my projects are available at [thanseefpp](https://github.com/thanseefpp?tab=repositories)
 
