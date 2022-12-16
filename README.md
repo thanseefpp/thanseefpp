@@ -31,7 +31,9 @@
 <a href="https://instagram.com/thanseef_tsf" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="thanseefpp" height="32" width="32" /></a>
 
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&count_private=true&show_icons=true&theme=synthwave" alt="thanseefpp" />
+</p>
 
 <br/>
 <br/>
