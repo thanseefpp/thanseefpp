@@ -5,7 +5,7 @@
 
 - 😉 Pursuing Machine Learning and Data Science.
 
-- 👨‍💻 Practising Data Structure and Algorithms and System architecture.
+- 👨‍💻 Practicing Data Structure and Algorithms and System architecture.
 
 - 👨🏻‍💻 Python, Javascript, Swift, Java, C.
 
