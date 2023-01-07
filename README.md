@@ -7,7 +7,7 @@
 
 - 👨‍💻 Practicing Data Structure and Algorithms and System Design.
 
-- 👨🏻‍💻 Python, Javascript, Swift, Java, C.
+- 👨🏻‍💻 Python, R, Javascript, Swift, Java, C.
 
 - 📖 Recently finished books(Atomic Habits,Rejection Proof).
 
