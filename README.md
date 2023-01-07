@@ -42,6 +42,6 @@
 <p align="center">
 <img align="center" src="https://gtce.itsvg.in/api?username=thanseefpptwitt)](https://github.com/VishwaGauravIn/github-twitter-card-embed" />
 </p>
-<br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+<p align="center">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
