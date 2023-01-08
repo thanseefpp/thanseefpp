@@ -28,10 +28,6 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanseefpp&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanseefpp&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
