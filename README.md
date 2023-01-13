@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanseefpp&label=Profile%20views&color=0e75b6&style=flat" alt="thanseefpp" /> </p>
 
-- 😉 Pursuing Machine Learning and Data Science.
+- 😉 Working on Machine Learning and Data Science.
 
 - 👨‍💻 Practicing Data Structure and Algorithms and System Design.
 
