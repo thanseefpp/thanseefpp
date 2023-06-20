@@ -2,8 +2,7 @@
 
 <br>
 
-Hi, I'm [Thanseefuddeen](https://thanseefuddeen.xyz/), a Machine Learning Engineer 👨🏻‍💻 from <b>India 🇮🇳</b>
-As a developer with over 3+ years of experience, I have a strong foundation in Web development and Machine learning and worked on various projects, gaining a diverse set of skills. I like to work independently and as part of a team and can problem-solve effectively. My attention to detail and ability to deliver high-quality work makes me an asset to any project. I'm constantly seeking out opportunities to learn and grow and am committed to staying up-to-date with the latest developments in my field. Overall, I'm a valuable contributor to any team and well-equipped to handle the challenges and responsibilities of being a developer
+Hi, I'm [Thanseefuddeen](https://thanseefuddeen.xyz/) Machine Learning Engineer 👨🏻‍💻 from <b>India 🇮🇳</b> with 3+ years of experience. Skilled in Web development and Machine Learning, I work well independently and as part of a team. I'm detail-oriented, deliver high-quality work, and continuously seek opportunities to learn and grow. I'm a valuable asset to any project, equipped to handle challenges as a developer.
 
 <br>
 
