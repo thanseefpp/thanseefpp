@@ -6,22 +6,23 @@ Hi, I'm [Thanseefuddeen](https://thanseefuddeen.xyz/) Machine Learning Engineer 
 
 <br>
 
-<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+## My 📚 Research Interest:
+<left><img src="https://github.com/thanseefpp/thanseefpp/assets/62167887/d4d98167-5d12-468e-8b9d-9c4d5182da42" align="right" height="300" width="500"> </center>
 
- - 😉 Working on Machine Learning and Data Science.
+- Feedback Generator Extension Using NLP and AI and OCR
+- Anomaly Detection
+- Product Ranking Tool
+- Stock Movement Predictor
+- Quantitative Research
 
-- 👨‍💻 Practicing Data Structure and Algorithms and System Design.
-
-- 👨🏻‍💻 Python, R, Javascript, Swift, Java, C.
-
-- 📖 Recently finished books(Atomic Habits,Rejection Proof).
+## 🤙🏻 Connect:
 
 - 📫 Reach me at **thanseefpp@gmail.com**
 
 - 🌏 See my portfolio [thanseef](https://thanseefuddeen.xyz/)
 
 - 👨‍💻 All of my projects are available at [thanseefpp](https://github.com/thanseefpp?tab=repositories)
- 
+
 <br>
 
 <h3>Profile Views</h3>
