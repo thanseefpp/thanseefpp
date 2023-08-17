@@ -21,7 +21,7 @@ Hi, I'm [Thanseefuddeen](https://thanseefuddeen.xyz/) Machine Learning Engineer 
 
 - 🌏 See my portfolio [thanseef](https://thanseefuddeen.xyz/)
 
-- 👨‍💻 All of my projects are available at [thanseefpp](https://github.com/thanseefpp?tab=repositories)
+- 👨‍💻 my public projects [thanseefpp](https://github.com/thanseefpp?tab=repositories)
 
 <br>
 
