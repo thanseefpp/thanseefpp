@@ -9,11 +9,9 @@ Hi, I'm [Thanseefuddeen](https://thanseef.in/) Machine Learning Engineer 👨�
 ## My 📚 Research Interest:
 <left><img src="https://github.com/thanseefpp/thanseefpp/assets/62167887/d4d98167-5d12-468e-8b9d-9c4d5182da42" align="right" height="300" width="500"> </center>
 
-- Feedback Generator Extension Using NLP, AI and OCR
-- Anomaly Detection
-- Product Ranking Tool
-- Stock Movement Predictor
-- Quantitative Research
+- Realtime Avatar Tutor/Customer Support with AI 
+- Live AI NewsReader
+- Personal Nutrition + OpenCV + ML
 
 ## 🤙🏻 Connect:
 
