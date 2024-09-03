@@ -12,6 +12,7 @@ Hi, I'm [Thanseefuddeen](https://thanseef.in/) Machine Learning Engineer 👨�
 - Realtime Avatar Tutor/Customer Support with AI 
 - Live AI NewsReader
 - Personal Nutrition with Computer vision + ML + LLM
+- Tradeview Analyzer and Predict
 
 ## 🤙🏻 Connect:
 
