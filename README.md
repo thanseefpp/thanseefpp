@@ -1,5 +1,5 @@
 <h1 align="center">Thanseefuddeen</h1>
-<p align="center"><b>AI Engineer / Data Scientist</b> &nbsp;·&nbsp; 5+ years &nbsp;·&nbsp; Kochi, India</p>
+<p align="center"><b>AI Engineer / Data Scientist</b> &nbsp;·&nbsp; 5+ years &nbsp;·&nbsp; Calicut, India</p>
 <p align="center">
   <a href="https://thanseef.in/"><img src="https://img.shields.io/badge/Portfolio-thanseef.in-0A0A0A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/thanseefpp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
